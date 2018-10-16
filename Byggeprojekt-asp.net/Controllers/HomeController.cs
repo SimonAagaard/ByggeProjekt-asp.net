@@ -17,20 +17,21 @@ namespace Byggeprojekt_asp.net.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Om os side";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Kontakt side";
 
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult FAQ()
         {
+            ViewData["Message"] = "Ofte stillede spørgsmål";
             return View();
         }
 
