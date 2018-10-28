@@ -69,7 +69,7 @@ using Byggeprojekt_asp.net.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(47, 208, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "31ac4f2307154894b2303f70d67c2c8e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34b91860f7af480b9654d36c82860a90", async() => {
                 BeginContext(53, 195, true);
                 WriteLiteral("\r\n    <meta charset=\"UTF-8\" />\r\n    <link rel=\"Stylesheet\" type=\"text/css\" href=\"../wwwroot/lib/bootstrap/dist/css/bootstrap.css\">\r\n    <script type=\"text/javascript\" src=\"js/site.js\"></script>\r\n");
                 EndContext();
@@ -89,7 +89,7 @@ using Byggeprojekt_asp.net.Models;
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(259, 2590, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da12804d06c8471a9a470a6e31ce7227", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c27ced1480cf4e7a8356dfddd0176707", async() => {
                 BeginContext(288, 701, true);
                 WriteLiteral(@"
     <div class=""Frontpage-Container"">
@@ -108,7 +108,7 @@ using Byggeprojekt_asp.net.Models;
                         ");
                 EndContext();
                 BeginContext(989, 77, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1aa5b0f454c84607a2e70312777034fb", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "29aeff824d06412db2720345c5646bbd", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -138,7 +138,7 @@ using Byggeprojekt_asp.net.Models;
                         ");
                 EndContext();
                 BeginContext(1448, 82, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "87fe93d50f8e48edb679aef9c1fec31f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ba1be8b226e24288801f7a85cfc5b2a1", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -168,7 +168,7 @@ using Byggeprojekt_asp.net.Models;
                         ");
                 EndContext();
                 BeginContext(1913, 88, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0896813cba744f19aac697def138678d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fd1bc9f485fc4a38b4e0cda05073feac", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
