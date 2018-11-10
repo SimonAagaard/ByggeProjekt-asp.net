@@ -33,3 +33,4 @@ C:\Users\Bruger\source\repos\Byggeprojekt-asp.net\Byggeprojekt-asp.net\obj\Debug
 C:\Users\Bruger\source\repos\Byggeprojekt-asp.net\Byggeprojekt-asp.net\obj\Debug\netcoreapp2.1\Byggeprojekt-asp.net.pdb
 C:\Users\Bruger\source\repos\Byggeprojekt-asp.net\Byggeprojekt-asp.net\obj\Debug\netcoreapp2.1\Byggeprojekt-asp.net.csproj.CopyComplete
 C:\Users\Bruger\source\repos\Byggeprojekt-asp.net\Byggeprojekt-asp.net\obj\Debug\netcoreapp2.1\Razor\Views\Home\FAQ.g.cshtml.cs
+C:\Users\Bruger\source\repos\Byggeprojekt-asp.net\Byggeprojekt-asp.net\obj\Debug\netcoreapp2.1\Razor\Views\News\Index.g.cshtml.cs
