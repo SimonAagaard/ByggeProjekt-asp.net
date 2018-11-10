@@ -6727,7 +6727,7 @@ button.close {
 /*Styling for frontpage*/
 
 .Frontpage-Body {
-    background-image: url('~/images/transparentfrontimage.png')
+    background-color: #7F7B7D;
 }
 
 .Frontpage-Welcome {
@@ -6741,7 +6741,7 @@ button.close {
 }
 
 .Frontpage-Container {
-    background-color: rgba(255,255,255,0.4);
+    background-color: rgba(127,123,125,0.4);
     padding: 20px 20px 20px 20px;
 }
 
@@ -6757,9 +6757,9 @@ button.close {
 }
 
 .Frontpage-Images {
-    float:right;
+    float: right;
     width: 400px;
-    height:400px;
+    height: 400px;
 }
 
 .img-responsive {
@@ -6769,14 +6769,15 @@ button.close {
 }
 
 .carousel-caption {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.carousel-caption .btn {
-    text-shadow: none;
-}
+
+    .carousel-caption .btn {
+        text-shadow: none;
+    }
+
 
 /*News styling*/
 .News-Container {
