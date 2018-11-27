@@ -60,7 +60,7 @@ using Byggeprojekt_asp.net.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(47, 208, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44cb803c032e44fdb3b37efe76e82c65", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad37e1912e90489780214e1fbaf9c8d7", async() => {
                 BeginContext(53, 195, true);
                 WriteLiteral("\r\n    <meta charset=\"UTF-8\" />\r\n    <link rel=\"Stylesheet\" type=\"text/css\" href=\"../wwwroot/lib/bootstrap/dist/css/bootstrap.css\">\r\n    <script type=\"text/javascript\" src=\"js/site.js\"></script>\r\n");
                 EndContext();
@@ -80,7 +80,7 @@ using Byggeprojekt_asp.net.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(257, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93d586106847422bae390fdd030a6b5a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9064546a93754a50a2efa62e6d03f3ca", async() => {
                 BeginContext(263, 25, true);
                 WriteLiteral("\r\n    <h1>FAQ side</h1>\r\n");
                 EndContext();
